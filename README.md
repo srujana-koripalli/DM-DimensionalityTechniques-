@@ -1,6 +1,6 @@
 # DM-Assignment-2 DM-DimensionalityTechniques 
 
-# Manifold Learning 
+# PCA
 
 - Principal component analysis (PCA) can be used in the dimensionality reduction task—reducing the number of features of a dataset while maintaining the essential relationships between the points. While PCA is flexible, fast, and easily interpretable, it does not perform so well when there are nonlinear relationships within the data; 
 
